@@ -1,0 +1,20 @@
+/****************All widget***************/
+*{
+    background:rgb(25, 100, 37);
+	color:rgb(255, 255, 255);
+	font: normal 20px “微软雅黑” ;
+}
+
+/***************QPushButton**************/
+.QPushButton {
+    color: blue;
+}
+/***************QAbstractSpinBox********/
+QAbstractSpinBox {
+    min-height: 30px;
+    max-height: 30px;
+    border-width: 1px;
+    rder-style: solid;
+    order-color: gray;
+    padding: 0px;
+}
